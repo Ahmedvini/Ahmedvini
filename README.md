@@ -1,23 +1,95 @@
-# 💫 About Me:
-👋 Hi, I'm Ahmed Elsheikh, a 20-year-old BSc Computer Science student at Egypt-Japan University of Science and Technology (E-JUST). I'm passionate about Embedded Systems, Machine Learning, and Data Analysis.<br><br>🔧 Skills & Interests:<br><br>Embedded Systems: Proficient in C/C++, microcontroller interfacing (AVR, ARM), automotive protocols (UART, SPI, I2C, CAN), real-time operating systems (RTOS, FreeRTOS), and automotive cybersecurity.<br>Machine Learning: Experienced in supervised and unsupervised algorithms, with projects involving face pose estimation, energy usage prediction in IoT systems, and football player market value forecasting.<br>Data Science: Skilled in data cleaning, feature engineering, model training, and evaluation using Python, Pandas, scikit-learn, OpenCV, and MediaPipe.<br><br>📚 Education:<br><br>BSc in Computer Science at E-JUST<br><br>🎙🔍 Seeking: Internship opportunities in Embedded Systems, AI, and Data Science.<br><br>Feel free to connect with me and check out my repositories!<br>
+<h1 align="center">Hi, I'm Ahmed Elsheikh 👋</h1>
+<h3 align="center">Embedded Systems Engineer | FPGA & AI for Biosignals | Final-Year CS Student</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-el-sheikh-8174b7282/) 
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedvini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedvini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedvini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedvini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmedvini&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+FPGA+%7C+ML;Building+NeuroMove+%E2%80%94+an+FPGA-accelerated+BCI;IEEE+E-JUST+RAS+Treasurer+%7C+TEDxEJUST+Chairman" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmedvini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+- 🎓 Final-year **BSc Computer Science** student at **Egypt-Japan University of Science and Technology (E-JUST)**, graduating 2026
+- 🧠 Currently building **NeuroMove**, an FPGA-accelerated EEG-based Brain-Computer Interface for stroke rehabilitation
+- ✍️ Co-authoring a NILES 2026 IEEE conference paper coupling FPGA-accelerated EEG decoding with biomaterial FEM verification
+- 🔧 Embedded Systems Engineer & Instructor at **Mycrosys E-JUST**, teaching embedded systems fundamentals
+- 🏛️ Treasurer, **IEEE E-JUST RAS Student Branch Chapter** | IEEE Member
+- 🎙️🔍 Seeking **Job opportunities** in Embedded Systems, AI, and Data Science
+- ⚡ Fun fact: I've debugged everything from DL to Vivado Bitstream generation in the same week
+
+---
+
+### 🔧 Skills & Interests
+
+**Embedded Systems:** C, C++, and assembly for AVR/ARM microcontrollers and FPGA (Xilinx Zynq-7000, ZCU104, ZCU106); communication protocols (UART, SPI, I2C, CAN); RTOS/FreeRTOS; real-time hardware-software co-design.
+
+**Machine Learning & Biosignals:** Deep learning for EEG decoding (attention/CBAM-based architectures), cross-modal generation (EEG-to-fNIRS), classical supervised/unsupervised ML — applied to face pose estimation, IoT energy prediction, and sports analytics.
+
+**Data Science:** Data cleaning, feature engineering, model training & evaluation with Python, Pandas, scikit-learn, OpenCV, and MediaPipe.
+
+**Also comfortable with:** Vanilla HTML/CSS/JS front-ends, ASP.NET + MySQL back-ends, and version-controlling large hardware/simulation artifacts .
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🧠 [**NeuroMove**](https://github.com/Ahmedvini/NeuroMove) | FPGA-accelerated EEG-based BCI for stroke rehabilitation — DB-ATCNet with improved CBAM attention, deployed on Zynq |
+| 🌐 [**NyxCrawler**](https://github.com/Ahmedvini/NyxCrawler) | Distributed Tor (.onion) search engine — asyncio crawler, hybrid Elasticsearch + embedding search, Neo4j graph layer |
+| 🏥 [**Viatra**](https://github.com/Ahmedvini/VIATRA) | Digital health platform — Node.js/Express + Flutter, deployed on GCP with Terraform IaC and Cloud Build CI/CD |
+
+---
+
+### 📚 Education
+
+**BSc in Computer Science** — Egypt-Japan University of Science and Technology (E-JUST), 2022 – 2026
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmedqelsheikh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmad.ayman.elsheikh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Ahmedvini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,html,css,js,vscode,git,github&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmedvini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedvini&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedvini&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedvini&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out about internships and collaborations!</i></p>
