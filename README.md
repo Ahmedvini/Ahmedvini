@@ -81,17 +81,11 @@ Egypt-Japan University of Science and Technology (E-JUST) · 2022 – 2026
 
 ---
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img
-    height="180"
     src="./profile/stats.svg"
     alt="Ahmed Elsheikh's GitHub statistics"
-  />
-  <img
-    height="180"
-    src="./profile/top-langs.svg"
-    alt="Ahmed Elsheikh's most used languages"
+    width="900"
   />
 </p>
 
