@@ -63,18 +63,17 @@ Egypt-Japan University of Science and Technology (E-JUST) · 2022 – 2026
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Ahmedvini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.shion.dev/api?username=Ahmedvini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="Ahmed's GitHub statistics"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedvini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedvini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Ahmed's top languages"
   />
 </p>
@@ -92,11 +91,10 @@ Egypt-Japan University of Science and Technology (E-JUST) · 2022 – 2026
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Ahmedvini&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ahmedvini&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
     alt="GitHub trophies"
   />
-</p>
-
+</p>  
 ---
 
 ### 🌐 Connect With Me
