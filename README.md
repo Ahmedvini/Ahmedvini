@@ -80,7 +80,6 @@ Egypt-Japan University of Science and Technology (E-JUST) · 2022 – 2026
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -102,7 +101,6 @@ Egypt-Japan University of Science and Technology (E-JUST) · 2022 – 2026
     alt="Ahmed Elsheikh's GitHub contribution streak"
   />
 </p>
-
 ---
 
 ## 🏆 GitHub Highlights
